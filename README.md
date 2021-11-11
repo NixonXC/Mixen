@@ -1,2 +1,2 @@
 # Mixen
-Mixe a ethical hacking tool made for educational purposes, the developers are not responsible for any damage caused.
+Mixen a ethical hacking tool made for educational purposes, the developers are not responsible for any damage caused.
